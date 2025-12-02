@@ -40,6 +40,7 @@ inspiration for future modern applications or websites in general.
 - Tailwind CSS
 
 ## <a name="features">🔋 Features</a>
+##
 
 👉 **Stunning Sections**: Includes hero, features, pricing (monthly/yearly), FAQ, testimonials, and download software
 sections.
